@@ -7,7 +7,7 @@ void print(int i, int n)
     if(i==n)
     return;
 
-    cout<<"Aayush 2.0 "<<i+1<<endl;
+    cout<<" Aayush 2.0 "<<i+1<<endl;
 
     print(i+1,n);
 }
